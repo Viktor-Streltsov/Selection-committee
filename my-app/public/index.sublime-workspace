@@ -1,0 +1,505 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"backr",
+				"background\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"dr",
+				"border-radius\tproperty"
+			],
+			[
+				"bra",
+				"border-radius\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"img",
+				"background-image\tproperty"
+			],
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"ind",
+				"z-index\tproperty"
+			],
+			[
+				"h",
+				"http-equiv\tAttr"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"mw",
+				"max-width\tproperty"
+			],
+			[
+				"l",
+				"line-height\tproperty"
+			],
+			[
+				"fs",
+				"font-size\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "!",
+			"file": "/C/Users/ACER/Desktop/index.html",
+			"file_size": 0,
+			"file_write_time": 133315145920516604,
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "!"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ACER/Desktop/Selection-committee"
+	],
+	"file_history":
+	[
+		"/C/Users/ACER/Desktop/gaid/Verstka/TwoProd/img/e17d82a5d7c56ccc443b40cf75up--ukrasheniya-sergi-blagodatnaya-rosa-sapfirovye.jpg",
+		"/C/Users/ACER/Desktop/acquiring_page1/pdf/Тарифы Марафон Girl Power.pdf",
+		"/C/Users/ACER/Desktop/city.list.json/city.list.json",
+		"/C/Users/ACER/Desktop/city.list.json",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/HTML,CSS,JS/2021/Projekt/Проект/index.html",
+		"/D/HTML,CSS,JS/2021/live_1/live_1/index.html",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ACER/Desktop/opros/css/style.css",
+		"/D/HTML,CSS,JS/учебная 3/css/style.css",
+		"/D/HTML,CSS,JS/2021/css 3/Проект/css/style.css",
+		"/D/HTML,CSS,JS/учебная 2/Проект/#source/scss/style.scss",
+		"/D/HTML,CSS,JS/учебная 2/Проект/#source/index.kit",
+		"/D/HTML,CSS,JS/учебная 2/Проект/index.html",
+		"/C/Users/ACER/git/git-lesson-you/index.html",
+		"/C/Users/ACER/git/git-lesson-i/index.html",
+		"/D/HTML,CSS,JS/учебная 2/Проект/css/style.css",
+		"/D/HTML,CSS,JS/учебная 2/Проект/#source/hader.html",
+		"/D/HTML,CSS,JS/учебная 2/Проект/#source/scss/nullstyle.scss",
+		"/D/HTML,CSS,JS/учебная 2/Проект/index.kid",
+		"/D/HTML,CSS,JS/учебная/index.html",
+		"/D/HTML,CSS,JS/учебная/css/style.css",
+		"/D/HTML,CSS,JS/2021/hellosass — 2/hellosass-2/index.html",
+		"/D/HTML,CSS,JS/2021/hellosass — 2/hellosass-2/css/style.css",
+		"/D/HTML,CSS,JS/2021/hellosass — 2/hellosass-2/fonts/fonts.css",
+		"/D/HTML,CSS,JS/2021/hellosass — 2/hellosass-2/#source/scss/style.scss",
+		"/D/HTML,CSS,JS/2021/hellosass — 2/hellosass/index.html",
+		"/D/HTML,CSS,JS/2021/hellosass — 2/hellosass/css/style.css",
+		"/D/HTML,CSS,JS/2021/hellosass — 2/hellosass/#source/scss/style.scss",
+		"/D/HTML,CSS,JS/2021/hellosass/hellosass/css/style.css",
+		"/D/HTML,CSS,JS/2021/hellosass/hellosass/index.html",
+		"/D/HTML,CSS,JS/2021/hellosass/hellosass/#source/scss/nullstyle.scss",
+		"/D/HTML,CSS,JS/2021/hellosass/hellosass/#source/scss/style.scss",
+		"/D/HTML,CSS,JS/2021/css 1/Проект/index.html",
+		"/D/HTML,CSS,JS/2021/css 1/Проект/css/style.css",
+		"/D/HTML,CSS,JS/2021/prepros/#source/heder.html",
+		"/D/HTML,CSS,JS/2021/prepros/#source/index.kit",
+		"/D/HTML,CSS,JS/2021/prepros/css/style.css",
+		"/D/HTML,CSS,JS/2021/prepros/#source/scss/style.scss",
+		"/D/HTML,CSS,JS/2021/prepros/#source/index.html",
+		"/D/HTML,CSS,JS/2021/prepros/index.html",
+		"/D/HTML,CSS,JS/pre/inbox.html",
+		"/D/HTML,CSS,JS/pre/#sorse/css/style.css",
+		"/D/HTML,CSS,JS/pre/#sorse/scss/style.scss",
+		"/D/HTML,CSS,JS/pre/css/style.css",
+		"/D/HTML,CSS,JS/2021/Hello SASS/Проект/#source/index.kit",
+		"/D/HTML,CSS,JS/2021/Hello SASS/Проект/#source/hader.html",
+		"/D/HTML,CSS,JS/2021/Hello SASS/Проект/#source/index.html",
+		"/D/HTML,CSS,JS/2021/Hello SASS/Проект/#source/scss/style.scss",
+		"/D/HTML,CSS,JS/2021/Hello SASS/Проект/css/style.css",
+		"/D/HTML,CSS,JS/2021/Hello SASS/Проект/index.html",
+		"/D/HTML/учебная/index.html",
+		"/D/HTML/учебная/css/style.css",
+		"/D/HTML/2021/css 8/Проект/index.html",
+		"/D/HTML/2021/css 8/Проект/css/style.css",
+		"/D/HTML/2021/css 7/Проект/index.html",
+		"/D/HTML/2021/css 7/Проект/css/style.css",
+		"/D/HTML/2021/css 6/Проект/index.html",
+		"/D/HTML/2021/css 6/Проект/css/style.css",
+		"/D/HTML/2021/css 6/Исходник/style.css",
+		"/C/Users/ACER/Desktop/учебная/index.html",
+		"/C/Users/ACER/Desktop/учебная/css/style.css",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/ACER/Desktop/учебная/tree.html",
+		"/C/Users/ACER/Desktop/учебная/twe.html",
+		"/C/Users/ACER/Desktop/учебная/one.html",
+		"/C/Users/ACER/Desktop/учебная/1.html",
+		"/C/Users/ACER/Desktop/учебная/сайты/2.html",
+		"/C/Users/ACER/Desktop/учебная/сайты/3.html",
+		"/C/Users/ACER/Desktop/учебная/сайты/1.html",
+		"/C/Users/ACER/Desktop/учебная/3.html",
+		"/C/Users/ACER/Desktop/учебная/2.html",
+		"/C/Users/ACER/Desktop/учебная/page.html",
+		"/D/HTML/2021/css 5/Проект/css/style.css",
+		"/D/HTML/2021/css 5/Проект/index.html",
+		"/D/HTML/2021/live_1/live_1/css/style.css",
+		"/D/HTML/2021/live_1/live_1/index.html",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/HTML/2021/css 3/Проект/index.html",
+		"/D/HTML/2021/css 3/Проект/css/style.css",
+		"/D/HTML/2021/css 2/Проект/index.html",
+		"/D/HTML/2021/css 2/Проект/css/style.css",
+		"/D/HTML/2021/css 1/Проект/css/style.css",
+		"/D/HTML/2021/css 1/Проект/index.html",
+		"/C/Users/ACER/Desktop/index.html",
+		"/D/HTML/2021/Projekt часть 4/Проект/index.html",
+		"/D/HTML/2021/Projekt часть 3/Проект/index.html",
+		"/D/HTML/2021/Projekt часть 2/HTML часть 2/index.html",
+		"/D/HTML/2021/Projekt часть 2/HTML часить 1/index.html",
+		"/D/HTML/2021/Projekt часть 1/HTML часить 1/index.html",
+		"/D/HTML/2021/Projekt/Проект/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ACER/Desktop/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
